@@ -13,4 +13,5 @@
 
 ### Squash
 * all commits is make into single commit
-* completed
+* squash rebase and rebase both are same 
+* better use sqush rebase.
