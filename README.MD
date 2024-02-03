@@ -27,3 +27,4 @@ developer create feature branches once they comple the development they will rai
 ### fast-forward merge -->build one in dev and run anyware
 
 ### conflict
+find different code in same line conflict will happen
